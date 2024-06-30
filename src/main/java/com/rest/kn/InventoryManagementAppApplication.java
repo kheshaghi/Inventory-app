@@ -1,0 +1,10 @@
+,052 [3.10.4.18] [10144 - STP SmartThreadPool Thread #0] INFO Dell.Services.SupportAssist.SecurityUtility.CertificateUtility - Is Executable file from the trusted authority: True for the file: C:\Program Files\Dell\SupportAssistAgent\PCD\SupportAssist\Dsapi.exe
+2024-06-30 20:01:52,058 [3.10.4.18] [10144 - STP SmartThreadPool Thread #0] INFO Dell.Services.SupportAssist.SecurityUtility.CertificateUtility - Is Certificate Subject matches: True for the file: C:\Program Files\Dell\SupportAssistAgent\PCD\SupportAssist\Dsapi.exe
+2024-06-30 20:01:52,059 [3.10.4.18] [10144 - STP SmartThreadPool Thread #0] INFO Dell.Services.SupportAssist.SupportAssistHandlers.PcDr.PcDrNamePipeClient - NamePipe-server certicate validated sucessfully.
+2024-06-30 20:01:57,120 [3.10.4.18] [10144 - 34] INFO SupportAssistSocketServer - Session: 998f98a2-ed1e-4976-8505-78094906eb35/127.0.0.1:58744
+A new session connected!
+2024-06-30 20:01:57,261 [3.10.4.18] [10144 - 27] INFO Dell.Services.SupportAssist.SupportAssistWebServer.WebSocketServerManager - Newly connected session id: 998f98a2-ed1e-4976-8505-78094906eb35
+2024-06-30 20:01:57,414 [3.10.4.18] [10144 - 34] INFO Dell.Services.SupportAssist.SupportAssistWebServer.WebSocketServerManager - Message received from client : 
+2024-06-30 20:01:57,566 [3.10.4.18] [10144 - 25] INFO Dell.Services.SupportAssist.WorkflowEngine.WorkFlowSession.WorkflowSessionManager - Handshake done for client: PcDr
+2024-06-30 20:01:57,624 [3.10.4.18] [10144 - STP SmartThreadPool Thread #0] INFO Dell.Services.SupportAssist.SupportAssistHandlers.InitHandler - Init message received from client : PcDr
+2024-06-30 20:01:57,668 [3.10.4.18] [10144 - STP SmartThreadPool Thread #0] INFO Dell.Services.SupportAssist.SupportAssistHandlers.InitHandler - Forming Ack message for MessageID-Init and Command-PcDr
